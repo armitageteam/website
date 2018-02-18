@@ -1,2 +1,2 @@
-# website
-Armitage team website
+# Armitage Team - Website
+Armitage team website.
